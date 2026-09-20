@@ -1,4 +1,4 @@
-# 🔐 Day 9 - Authentication API
+# 🔐 Authentication API
 
 A simple Authentication REST API built using **Java, Spring Boot, Spring Security, Spring Data JPA, and MySQL**.
 
@@ -173,18 +173,6 @@ MySQL Database
 - Request and Response DTOs
 - Jakarta Validation
 - Secure password storage
-
-## 🎯 Next Step
-
-**Day 10 - JWT Authentication**
-
-The next project will extend this authentication system with:
-
-- JWT generation
-- JWT validation
-- Bearer token authentication
-- Stateless authentication
-- Protected API access using JWT
 
 ## 🏷️ Challenge
 
